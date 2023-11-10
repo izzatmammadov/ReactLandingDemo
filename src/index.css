@@ -1,13 +1,9 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background:url(https://img.freepik.com/free-photo/white-simple-textured-design-background_53876-102423.jpg?w=1060&t=st=1699557554~exp=1699558154~hmac=4a8e4b5e77cad33900a3e57d090c8bf8c29598d2ce5ee18fcad8e392825f1ece);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
